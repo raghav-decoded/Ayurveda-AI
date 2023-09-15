@@ -1,0 +1,7 @@
+langchain
+openai
+chromadb
+tiktoken
+pypdf
+"langchain[docarray]"
+pycryptodome

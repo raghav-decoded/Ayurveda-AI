@@ -1,0 +1,301 @@
+Symptom,Description
+Vatavikara,Disorders related to the Vata dosha.
+Netraroga,Eye disorders.
+Malavarodha,Constipation.
+Sutikadosha,Postpartum disorders.
+Vrana,Wounds or injuries.
+Khalitya,Hair loss.
+Raktasrava,Bleeding disorders.
+Svarabheda,Voice disorders.
+Arbuda,Tumors or growths.
+Raktadushti,Blood impurities.
+Shulahara,Pain management.
+Pittadushti,Pitta dosha imbalance.
+Vatarakta,Gout.
+Shirogatavata,Headache due to Vata imbalance.
+Rajodosha,Menstrual disorders.
+Vishuchika,Dysentery.
+Kastartava,Painful menstruation.
+Garadosha,Leprosy.
+Urahkshata,Chest injury.
+Vatavyadhi,Diseases related to Vata dosha.
+Dhatukshaya,Tissue depletion.
+Yonishula,Pelvic pain.
+Vidvibandha,Constipation due to neurological causes.
+Gudapaka,Anal disorders.
+Shirahshula,Headache.
+Mahavataroga,Severe skin diseases.
+Hriddaha,Heartburn.
+Shvitra,Leucoderma or vitiligo.
+Amavata,Rheumatoid arthritis.
+Rajodushti,Menstrual disorders.
+Shiroroga,Head disorders.
+Dushtavrana,Infected wounds.
+Chhardi,Vomiting.
+Nadivrana,Sinusitis.
+Raktarsha,Hemorrhoids.
+Indralupta,Alopecia areata.
+Yoniroga,Gynecological disorders.
+Balaroga,Pediatric diseases.
+Hriddrava,Cardiac effusion.
+Bhagandar,Fistula-in-ano.
+Vranashotha,Swelling of wounds.
+Ardhavbhedaka,Migraine.
+Granthi,Cyst or tumor.
+Sandhigatavata,Osteoarthritis.
+Agnidagdha,Burnt by digestive fire (related to digestion).
+Manodvega,Mental disorders.
+Pittaroga,Diseases related to Pitta dosha.
+Mutraghata,Urinary obstruction.
+Suryavarta,Sunstroke.
+Pittajanetravyadhi,Disorders of the urinary system related to Pitta dosha.
+Vastigatashula,Pain related to enema administration.
+Shula,Abdominal pain.
+Mukhdaurgandhya,Foul smell from the mouth.
+Vatajashula,Abdominal pain due to Vata dosha.
+Urustambha,Thigh stiffness.
+Anidra,Insomnia.
+Anaha,Bloating.
+Sandhigraha,Joint stiffness.
+Urdhvagaraktapitta,Upper gastrointestinal bleeding.
+Hrid-daurbalya,Weakness of the heart.
+Sandhivedana,Joint pain.
+Padadaha,Foot burning sensation.
+Amvata,Rheumatism.
+Khalli,Abscess.
+Dagdhavrana,Burn wounds.
+Kshata,Injury.
+Gandamala,Tonsillitis.
+Kushtha,Skin diseases.
+Manoroga,Mental disorders.
+Manodosha,Psychological imbalances.
+Panduduarbalya,Anemia and weakness.
+Atisara,Diarrhea.
+Hikka,Hiccups.
+Dadru,Fungal skin infections.
+Arma,Filariasis.
+Tvakvikara,Skin disorders.
+Agnimandhya,Digestive weakness.
+Pittajaroga,Diseases related to Pitta dosha.
+Praseka,Excessive salivation.
+Medoroga,Disorders related to fat tissue.
+Raktajroga,Diseases of blood.
+Agnimandya,Digestive weakness.
+Malabandha,Constipation due to fecal impaction.
+Raktapradara,Menorrhagia (excessive menstrual bleeding).
+Mutrakricchra,Dysuria (painful urination).
+Rajayakshma,Tuberculosis.
+Daha,Burning sensation.
+Pliharoga,Splenic disorders.
+Raktapitta,Bleeding disorders related to Pitta dosha.
+Medhya,Enhancing intellect.
+Vishamajvara,Irregular fever.
+Manodaurbalya,Mental weakness.
+Ojakshya,Immune deficiency.
+Tvakroga,Skin diseases.
+Mukhapaka,Oral ulcers.
+Hridya,Cardiotonic.
+Pittajvara,Fever due to Pitta dosha.
+Udara,Abdominal disorders.
+Badhirya,Deafness.
+Kasa,Cough.
+Vatroga,Diseases related to Vata dosha.
+Udavarta,Reverse movement of Vata.
+Shirokampa,Tremors of the head.
+Svarbheda,Hoarseness of voice.
+Kamala,Jaundice.
+Trikshula,Abdominal colic.
+Jirnapravahika,Chronic diarrhea.
+Budhidaurbalya,Mental weakness.
+Mutrakriccha,Difficulty in urination.
+Mukharoga,Oral disorders.
+Ajirna,Indigestion.
+Vicharchika,Eczema.
+Udarashula,Abdominal pain.
+Keshapata,Hair fall.
+Jirnapratishaya,Chronic rhinitis.
+Manyastambha,Muscle stiffness.
+Amatisara,Chronic diarrhea.
+Halimaka,Cirrhosis of the liver.
+Bhru-shankha-karnashula,"Pain in the eyebrows, temples, and ears."
+Charmkila,Skin tags.
+Raktanishthivana,Blood vessel disorders.
+Shukrameha,Seminal disorders.
+Jara,Aging.
+Yonidosha,Vaginal disorders.
+Sukradosha,Semen disorders.
+Avabahuka,Frozen shoulder.
+Smritibhransha,Memory loss.
+Bhutonmada,Psychic disorders.
+Parshvashula,Side pain.
+Shulayuktabradhna,Stones associated with pain.
+Apasmara,Epilepsy.
+Kotha,Cough.
+Udvega,Anxiety.
+Ama,Toxins or undigested food.
+Urdhvajatrugataroga,Upper respiratory tract disorders.
+Pakshaghata,Hemiplegia.
+Panguvata,Hemiplegia.
+Aksepa,Seizures.
+Shvasa,Asthma.
+Pliha-yakridroga,Disorders of the spleen and liver.
+Hanustambha,Facial paralysis.
+Asthiruja,Joint pain.
+Vandhyaroga,Infertility.
+Amadosha,Impaired digestion.
+Smritikshaya,Memory decline.
+Pakshaghat,Paralysis.
+Gulma,Abdominal tumor or mass.
+Vishmajvara,Poisonous fever.
+Arochaka,Loss of appetite.
+Netravrana,Eye injury.
+Pradara,Leucorrhea.
+Karnagutha,Ear infection.
+Karnasrava,Ear discharge.
+Visavikara,Poisonous conditions.
+Mahakushtha,Severe skin diseases.
+Rajorodha,Menstrual blockage.
+Yonibhransha,Vaginal prolapse.
+Gridhrasi,Sciatica.
+Vranaropana,Wound healing.
+Kushta,Skin disorders.
+Palitya,Premature graying of hair.
+Keshashata,Baldness.
+Garavisha,Poisoning by heavy metals.
+Balya,Health-promoting.
+Apsmara,Epilepsy.
+Amlapitta,Hyperacidity.
+Pratishyaya,Common cold.
+Upadansha,Skin eruptions.
+Madhumeha,Diabetes.
+Aruchi,Anorexia.
+Shwetapradara,White discharge (leucorrhea).
+Pakshavadha,Hemiplegia.
+Karnanada,Earache.
+Vataraktaruja,Gout.
+Yonivyapat,Vaginal prolapse.
+Shotha,Edema.
+Grahaniroga,Irritable bowel syndrome.
+Apachi,Herpes.
+Prameha,Urinary disorders.
+Jvara,Fever.
+Balashosha,Nutritional edema.
+Bhrama,Vertigo.
+Trisha,Thirst.
+Hridroga,Heart disease.
+Vatashonita,Gouty arthritis with bleeding.
+Garbhadosha,Fetal abnormalities.
+Prasavottararoga,Post-delivery disorders.
+Smritidaurbalya,Memory weakness.
+Balagraha,Malnutrition.
+Visarpa,Erysipelas.
+Drishtimandya,Visual impairment.
+Prasavottaralakshana,Post-delivery symptoms.
+Khanja,Lameness.
+Kandu,Itching.
+Daurbalya,Weakness.
+Vataroga,Diseases related to Vata dosha.
+Vatashlaismikapratishyaya,Allergic rhinitis due to Vata dosha.
+Drishtidaurbalya,Weak vision.
+Amashula,Abdominal colic due to Ama (toxins).
+Kustha,Leprosy.
+Vibandha,Constipation.
+Sharkara,Pemphigus.
+Karshya,Emaciation.
+Krichhrartav,Painful menstruation.
+Ashmari,Kidney stones.
+Karnashula,Ear pain.
+Udararoga,Abdominal disorders.
+Arshagarbhasayaroga,Hemorrhoids in pregnancy.
+Abhighatajavedanaandvatavikara,Nervous system disorders due to trauma.
+Pittajashirahshula,Headache due to Pitta dosha.
+Klaivya,Leprosy.
+Angasthambha,Body stiffness.
+Krimi,Worm infestations.
+Unmada,Insanity.
+Jirnajvara,Chronic fever.
+Shosha,Emaciation.
+Kshatakshina,Wasting syndrome.
+Sarvajvara,All types of fever.
+Katishula,Backache.
+Parinamashula,Colicky pain.
+Sarpadamsha,Snakebite.
+Pramehapidika,Boils in urinary tract disorders.
+Vatakaphajaroga,Diseases related to Vata and Kapha dosha.
+Janghashula,Calf pain.
+Grahaniroga¸pravahika,Irritable bowel syndrome with diarrhea.
+Svarakshaya,Voice loss.
+Pandu,Anemia.
+Mandagni,Impaired digestion.
+Trishna,Thirst.
+Sthaulya,Obesity.
+Timira,Blindness.
+Prishashula,Side pain.
+Asthibhagna,Bone fractures.
+Kasashvasa,Cough and breathlessness.
+Vidagdhajirna,Digestive disorders causing burning sensation.
+Vidradhi,Abscess.
+Dantaroga,Dental diseases.
+Amajirna,Indigestion due to Ama (toxins).
+Vandhyatva,Infertility.
+Grahani,Irritable bowel syndrome.
+Balakshaya,Loss of strength in children.
+Kshudrakushtha,Minor skin disorders.
+Sutikaroga,Postpartum disorders.
+Asthichyuti,Bone atrophy.
+Vrishya,Aphrodisiac.
+Sthanikashotha,Localized swelling.
+Sandhishula,Joint pain.
+Urushula,Thigh pain.
+Angavedana,Body pain.
+Pravahika,Dysentery.
+Kaphavatajanadivrana,Wounds with Kapha and Vata involvement.
+Pangu,Limping.
+Pama,Filariasis.
+Shvetapradara,White discharge (leucorrhea).
+Galaroga,Goiter.
+Raktajpravahika,Hemorrhagic diarrhea.
+Kampa,Tremors.
+Abhishyanda,Ophthalmia.
+Charmavikara,Skin disorders.
+Pliha,Spleen disorders.
+Udarda,Urticaria.
+Vidarika,Herpes.
+Yakshma,Tuberculosis.
+Adhamana,Flatulence.
+Moha,Delusion.
+Striroga,Gynecological disorders.
+Parinamshula,Colicky pain due to diet.
+Somaroga,Diseases related to the moon (lunar disorders).
+Manasadosha,Mental disorders.
+Kaphajavrana,Wounds with Kapha involvement.
+Agnimandyaudararoga,Digestive weakness and abdominal disorders.
+Bhagandara,Fistula-in-ano.
+Smritiandbuddhivardhaka,Enhancing memory and intellect.
+Raktatisara,Blood diarrhea.
+Krimiroga,Worm infestations.
+Hritshula,Chest pain.
+Vriddhiroga,Aging-related diseases.
+Sandhigatvata,Joint disorders due to Vata dosha.
+Sutikavata,Postpartum Vata disorders.
+Katigraha,Lumbago.
+Visuchika,Dysentery.
+Mutrashmari,Kidney stones.
+Murchha,Syncope.
+Rasayana,Rejuvenation.
+Hriddaurbalya,Heart weakness.
+Paktishula,Colicky pain due to digestion.
+Bahushosha,Severe emaciation.
+Mutrasthila,Urinary retention.
+Shitapitta,Urticaria.
+Aptantrak,Snakebite.
+Arsha,Hemorrhoids.
+Jvaratisara,Febrile dysentery.
+Ardita,Facial paralysis.
+Kanduvisphota,Itching and eruptions.
+Pinasa,Sinusitis.
+Galaganda,Goiter.
+Asrigdara,Menorrhagia.
+Pittajanetraroga,Urinary disorders due to Pitta dosha.
+Mutraroga,Urinary disorders.
+Kshaya,Debility. 
