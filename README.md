@@ -4,7 +4,7 @@ AyurAI
 https://github.com/raghav-decoded/Ayurveda-AI/assets/50199745/0d58d456-b148-4666-a48e-413e5db9f821
 
 
-#Idea/Approach:
+# Idea/Approach:
 To solve this problem, we've created an innovative solution: a Web Portal, Desktop App, and Mobile App. These tools revolutionize access to Ayurvedic knowledge and healthcare.
 Our software includes:
 * Formulation Recommendation based on user symptoms.
@@ -14,7 +14,7 @@ Our software includes:
 * Personalised Ayurvedic Routines based on user data.
 * Robust security with Face and Fingerprint Recognition.
 
-#Technology Stack:
+# Technology Stack:
 * tkinter
 * YOLO
 * Open CV
@@ -30,5 +30,5 @@ Our software includes:
 * ChromaDB
 * and more.
 
-#References:
+# References:
 * Our Formulation dataset was meticulously compiled by conducting extensive research on Ayurveda. We've created a dataset using Research papers from CTRI (Clinical Trials Registry of India) , Ayurvedic Pharmacopoeia of India, and data from the Namaste Portal.
