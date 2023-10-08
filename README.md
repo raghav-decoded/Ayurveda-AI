@@ -2,7 +2,9 @@ AyurAI
 
 
 
-https://github.com/raghav-decoded/Ayurveda-AI/assets/50199745/d45dc3e7-ef74-47b6-86ae-8031f12a95ce
+https://github.com/raghav-decoded/Ayurveda-AI/assets/50199745/3962b04a-d46b-4e82-87ee-6ff25f6f5f0d
+
+
 
 
 
