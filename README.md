@@ -2,6 +2,10 @@
 
 
 
+https://github.com/raghav-decoded/Ayurveda-AI/assets/50199745/a0a41bff-1f8d-4909-a06c-7fe3edb030f0
+
+
+
 https://github.com/raghav-decoded/Ayurveda-AI/assets/50199745/3962b04a-d46b-4e82-87ee-6ff25f6f5f0d
 
 
