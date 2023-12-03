@@ -13,17 +13,13 @@ To solve this problem, we've created an innovative solution: a Web Portal, Deskt
 Our software includes:
 * Formulation Recommendation based on user symptoms.
 * Ayurvedic Plant Image Recognition system.
-* AI Ayurveda Assistant with multilingual text and speech capability.
+* AI Ayurveda Assistant
 * Web Scraping to find the medicine availability on the internet.
-* Personalised Ayurvedic Routines based on user data.
-* Robust security with Face and Fingerprint Recognition.
 
 # Technology Stack:
 * tkinter
-* YOLO
-* Open CV
 * tik token
-* piePDF
+* pyPDF
 * sklearn
 * TensorFlow
 * langchain
